@@ -1,8 +1,7 @@
 import type { NextPage } from 'next'
-import StartForm from '../components/StartForm'
 
 const Home: NextPage = () => {
-  return <StartForm />
+  return <div>Hello</div>
 }
 
 export default Home
